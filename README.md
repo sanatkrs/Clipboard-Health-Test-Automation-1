@@ -35,7 +35,7 @@ Tests
 * Running Tests
   * Where?
     * Class Locations
-      * See ‘Test/ui/UITest class to directly run as a java class
+      * See â€˜Test/ui/UITest class to directly run as a java class
 
 * Via IntelliJ
        * TestNG Plugin installed by default; run or debug methods & classes via the play button
@@ -70,6 +70,7 @@ Extent report is widely used with Selenium for displaying the test reports, same
 Log4j. SLF4J, Lombok:
 
 For logging purposes, we have used these libraries, which is used by simply adding the Slf4j annotation in each class.
+
 =========================================================================
 
 
